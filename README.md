@@ -2,7 +2,6 @@
 
 # Data Analysis Project - Video Game Sales Dashboard 
 
-# [Link to Tableau Dashboard](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
 
 # Dataset Overview
 
@@ -29,6 +28,11 @@ Dataset sourced by vgchartz.com contains a list of video games across different 
 Quality Issues for Dataset: 
 
 Missing Values under Year and Publisher. 
+
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
+
+![image](https://user-images.githubusercontent.com/130886258/232901254-df444764-1c47-48aa-a15b-4fa976ba055a.png)
+
 
 
 
