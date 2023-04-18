@@ -1,12 +1,18 @@
-# Projects
 
-Data Analysis Project - Video Game Sales Dashboard 
 
-Dataset Overview
+# Data Analysis Project - Video Game Sales Dashboard 
+
+# [Link to Tableau Dashboard](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
+
+# Dataset Overview
 
 Dataset sourced by vgchartz.com contains a list of video games across different platforms and genres as well as global sales broken down by different regions across the world. 
 
-Research Questions: 
+
+
+
+
+# Research Questions: 
 
 •	What are the top 10 best selling video games? Rank and Display Sales in descending order 
 
@@ -18,10 +24,11 @@ Research Questions:
 
 •	What are the top 10 publishers with the highest sales? Rank and Display Sales in Descending Order 
 
-Assessment: 
+# Assessment: 
 
 Quality Issues for Dataset: 
 
 Missing Values under Year and Publisher. 
 
-Link to Tableau Dashboard: https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes
+
+
