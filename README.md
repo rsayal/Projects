@@ -11,7 +11,9 @@ Dataset sourced by vgchartz.com contains a list of video games across different 
 
 
 
-#  Questions: 
+#  Exploration Questions: 
+
+The following questions are explored in this case study
 
 •	What are the top 10 best selling video games? Rank and Display Sales in descending order 
 
@@ -28,6 +30,8 @@ Dataset sourced by vgchartz.com contains a list of video games across different 
 Quality Issues for Dataset: 
 
 Missing Values under Year and Publisher. 
+
+# Data Visualization
 
 [Tableau Dashboard Link](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
 
