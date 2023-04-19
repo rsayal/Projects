@@ -1,6 +1,6 @@
 
 
-# Data Analysis Project - Video Game Sales Dashboard 
+# Data Analysis Project - Video Game Sales Analysis
 
 
 # Dataset Overview
