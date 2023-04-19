@@ -1,6 +1,6 @@
 
 
-Project Overview - Video Game Sales Analysis
+# Project Overview - Video Game Sales Analysis
 
 
 # Dataset Overview
