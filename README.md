@@ -11,7 +11,7 @@ Dataset sourced by vgchartz.com contains a list of video games across different 
 
 
 
-# Research Questions: 
+#  Questions: 
 
 •	What are the top 10 best selling video games? Rank and Display Sales in descending order 
 
