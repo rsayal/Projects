@@ -10,7 +10,6 @@ Dataset sourced by vgchartz.com contains a list of video games across different 
 
 
 
-
 #  Exploration Questions: 
 
 The following questions are explored in this case study
@@ -33,7 +32,7 @@ Missing Values under Year and Publisher.
 
 # Data Visualization
 
-[Tableau Dashboard Link live on my Tableau Public profile](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
+See my [Interactive Dashboard] live on my Tableau Public profile(https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/130886258/232901254-df444764-1c47-48aa-a15b-4fa976ba055a.png)
 
