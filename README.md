@@ -49,7 +49,7 @@ Second SQL Query based on Total worldwide hardware sales (in millions of units) 
 
 
 
-[Link to Query](https://github.com/rsayal/Projects/blob/main/Video%20game%20Sales%20Analysis%20-%20Creating%20Table-Insert-Update-Delete%20Data.sql)
+
 
 
 
