@@ -39,9 +39,7 @@ See my [Interactive Dashboard](https://public.tableau.com/app/profile/raman.saya
 
 # Data Analysis Using SQL
 
-
-Data Analysis using SQL based on the Dataset stated above
-[Link to SQL Script](https://github.com/rsayal/Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Video%20Game%20Sales%20-%20SQL.sql)
+Review the Data Exploration SQL Script: [Here](https://github.com/rsayal/Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Video%20Game%20Sales%20-%20SQL.sql)
 
 
 
