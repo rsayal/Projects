@@ -32,7 +32,7 @@ Missing Values under Year and Publisher.
 
 # Data Visualization
 
-See my [Interactive Dashboard](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes) live on my Tableau Public Profile. 
+See my Interactive Dashboard live on my Tableau Public Profile: [Here](https://public.tableau.com/app/profile/raman.sayal/viz/VideoGameSalesDashboard_16817646238000/Dashboard1?publish=yes)
  
 
 ![image](https://user-images.githubusercontent.com/130886258/232969936-749c74e7-3d23-49c8-ac3c-0dea918fbb81.png)
