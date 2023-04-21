@@ -43,7 +43,7 @@ Review the Data Exploration SQL Script based on the dataset above: [Here](https:
 
 
 
-Second Table was created based on Total worldwide hardware sales (in millions of units) per platform. In addition, DML Statements were used, Insert, Update and Delete. 
+Second Table was created based on Total worldwide hardware sales (in millions of units) per video game platform. In addition, DML Statements were used, Insert, Update and Delete. 
 Review the SQL Script: [Here](https://github.com/rsayal/Projects/blob/main/Video%20game%20Sales%20Analysis%20-%20Creating%20Table-Insert-Update-Delete%20Data.sql)
 
 
