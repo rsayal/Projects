@@ -1,5 +1,5 @@
 -- Original Source: https://www.vgchartz.com/charts/platform_totals/Hardware.php/
--- SQL Skills: Creating Table, data manipulation
+
 
 
 
