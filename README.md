@@ -45,7 +45,7 @@ Data Analysis using SQL based on the Dataset stated above
 
 
 
-Second SQL Query based on Total worldwide hardware sales (in millions of units) per platform. 
+Second Table was created based on Total worldwide hardware sales (in millions of units) per platform. 
 
 
 [Link to SQL Queries](https://github.com/rsayal/Projects/blob/main/Video%20game%20Sales%20Analysis%20-%20Creating%20Table-Insert-Update-Delete%20Data.sql)
