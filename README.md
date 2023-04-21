@@ -37,9 +37,9 @@ See my [Interactive Dashboard](https://public.tableau.com/app/profile/raman.saya
 
 ![image](https://user-images.githubusercontent.com/130886258/232969936-749c74e7-3d23-49c8-ac3c-0dea918fbb81.png)
 
-Data Analysis Using SQL
+# Data Analysis Using SQL
 
-[SQL Code] based 
+[SQL Code](https://github.com/rsayal/Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Video%20Game%20Sales%20-%20SQL.sql)
 
 
 
