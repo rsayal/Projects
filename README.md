@@ -41,14 +41,14 @@ See my [Interactive Dashboard](https://public.tableau.com/app/profile/raman.saya
 
 
 Data Analysis using SQL based on the Dataset stated above
-[Link to SQL Queries](https://github.com/rsayal/Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Video%20Game%20Sales%20-%20SQL.sql)
+[Link to SQL Script](https://github.com/rsayal/Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Video%20Game%20Sales%20-%20SQL.sql)
 
 
 
 Second Table was created based on Total worldwide hardware sales (in millions of units) per platform. 
 
 
-[Link to SQL Queries](https://github.com/rsayal/Projects/blob/main/Video%20game%20Sales%20Analysis%20-%20Creating%20Table-Insert-Update-Delete%20Data.sql)
+[Link to SQL Script](https://github.com/rsayal/Projects/blob/main/Video%20game%20Sales%20Analysis%20-%20Creating%20Table-Insert-Update-Delete%20Data.sql)
 
 
 
